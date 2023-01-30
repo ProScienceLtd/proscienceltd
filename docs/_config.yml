@@ -31,8 +31,6 @@ domain: proscienceltd.github.io     # if you want to force HTTPS, specify the do
 twitter_username: jekyllrb
 github_username:  jekyll
 
-
-
 # Build settings
 theme: jekyll-theme-clean-blog
 plugins:
